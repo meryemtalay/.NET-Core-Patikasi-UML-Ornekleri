@@ -11,4 +11,3 @@
 
 ## Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
-![umlucusyönetimi](https://hizliresim.com/in0igb5)
